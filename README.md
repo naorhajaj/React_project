@@ -28,7 +28,7 @@ The Business Card App is a platform that allows users to create, edit, delete, a
 
 To run the Business Card App locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/naorhajaj/React_project.git`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 4. Open your web browser and navigate to `http://localhost:3000` to access the app.
