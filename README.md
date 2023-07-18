@@ -20,6 +20,11 @@ The Business Card App is a platform that allows users to create, edit, delete, a
 - Regular Users: Regular users can view and search for business cards but cannot create or edit them.
 - Admin Users: Admin users have full access to all features, including managing users and their permissions.
 
+#### User Editing
+
+- Edit Profile: Users can edit their profile information, including their name, contact details, and other relevant information.
+- Save Changes: Users can save the changes made to their profile information.
+
 ### Header and Footer
 
 - The app includes a header and footer section that provide consistent navigation and branding throughout the application.
